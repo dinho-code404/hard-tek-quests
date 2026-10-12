@@ -35,6 +35,9 @@ Har ishni boshlashdan oldin shu faylni o'qib chiqing!
 - [ ] (Cline) `cline/readme` — `hard-tek/README.md` (o'zbekcha): ishga tushirish, arxitektura, endpointlar jadvali, `.env` o'zgaruvchilar RO'YXATI (qiymatlarsiz!). Qabul: yangi odam shu fayl bilan app ni ko'tara oladi
 - [ ] (Cline) `cline/404` — glass uslubda chiroyli `404.html` (login ga havola bilan). Ulashni Opencode qiladi (backend kerak). Qabul: sahifa mustaqil ochilganda chiroyli ko'rinadi
 - [ ] (Cline) `cline/backup-name` — `settings.js` exportData: fayl nomiga username qo'sh (`TaskPlanner_<user>_<sana>.json`). Qabul: yuklangan fayl nomida login ko'rinadi
+- [x] (Opencode) Sidebar icon double bug fix (i18n nav) — BAJARILDI
+- [x] (Opencode) Login stil unifikatsiya (tasks bilan bir xil gradient) — BAJARILDI
+- [x] (Opencode) Settings B+C: desktop tab panel + mobile accordion, o'z dizaynda — BAJARILDI
 
 ## 4. POCHTA (bir-birimizga xabarlar)
 
